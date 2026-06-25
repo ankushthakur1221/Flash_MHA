@@ -37,7 +37,7 @@ TileLang is a tiled domain-specific language (DSL) for high-performance GPU prog
 ### Steps
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/MultiHeadAttention-TileLang.git
+    git clone https://github.com/ankushthakur1221/Flash_MHA.git
     cd MultiHeadAttention-TileLang
     ```
 
